@@ -1,0 +1,6 @@
+{
+  "name": "BreedSense AI",
+  "description": "Smart Cattle & Buffalo Breed Identification powered by Computer Vision & Artificial Intelligence for Smart India Hackathon 2026.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
